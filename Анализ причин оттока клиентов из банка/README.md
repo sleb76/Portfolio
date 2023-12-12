@@ -52,3 +52,9 @@
 2. Добавьте на тот же график индикатор процента ушедших клиентов (уровень
 оттока среди владельцев данного числа продуктов).
 3. Добавьте фильтр дашборда по городу.
+
+## [Тетрадь с исследованием](https://github.com/sleb76/Portfolio/blob/f479fb36b58a9dfc7bea96df471ceb7ec19b3696/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb)
+
+## [Презентация](https://github.com/sleb76/Portfolio/blob/f479fb36b58a9dfc7bea96df471ceb7ec19b3696/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20final.pdf)
+
+## [Дашборд](https://public.tableau.com/views/_16968544528940/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
